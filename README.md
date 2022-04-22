@@ -20,7 +20,7 @@ Create, save, view, and delete notes with the Noted application. Organize and no
 
 ## Website
 
-[Noted](https://stormy-ravine-87920.herokuapp.com)
+Visit the deployed [here](https://rocky-springs-24103.herokuapp.com/)
 
 
 ## Usage
@@ -31,23 +31,19 @@ Create, save, view, and delete notes with the Noted application. Organize and no
 
  - click one of the links to view a post
 
-    ![click get started ](./assets/images/img1.png)
+    ![click a post link ](./assets/images/img1.png)
 
  - login or sign up to make posts and comment
 
-    ![create and save note](./assets/images/img2.png)
+    ![login page](./assets/images/img2.png)
 
  - view and edit your posts from the dashboard
 
-    ![view selected note](./assets/images/img3.png)
+    ![dashboard page](./assets/images/img3.png)
 
  - click logout to end your session
     
-    ![click plus sign to add new note ](./assets/images/img4.png)
-
-## Website
-
-Visit the deployed [here]()
+    ![edit posts or logout](./assets/images/img4.png)
 
 
 ## Contributing
@@ -62,7 +58,7 @@ This application is licensed under [ISC](https://opensource.org/licenses/ISC).
 
 ## Credits
   
-Code customized from [anthonypena97](https://github.com/anthonypena97/note-taker)
+Code adapted from [jakekelly44](https://github.com/jakekelly44/tech-blog)
 
 
 ## Questions
